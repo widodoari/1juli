@@ -4,7 +4,7 @@ include "function.php";
 echo color("nevy","# # # # # # # # # # # # # # # # # # # # # # # # \n");
 echo color("blue","[•]  Time  : ".date('[d-m-Y] [H:i:s]')."   \n");
 echo color("nevy","# # # # # # # # # # # # # # # # # # # # # # # # \n");
-echo color("blue","[•]          Telegram @ XionManSit       \n");
+echo color("blue","[•]          oleh: ari widodo       \n");
 echo color("nevy","# # # # # # # # # # # # # # # # # # # # # # # # \n");
 echo color("blue","[•] cara menulis nomor pakai 62xxxxxxxxxx \n");
 echo color("nevy","# # # # # # # # # # # # # # # # # # # # # # # # \n");
